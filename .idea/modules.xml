@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../APIAutomation/.idea/APIAutomation.iml" filepath="$PROJECT_DIR$/../../APIAutomation/.idea/APIAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pythonSelfFramwork/AdvisoryUpload/.idea/AdvisoryUpload.iml" filepath="$PROJECT_DIR$/../../pythonSelfFramwork/AdvisoryUpload/.idea/AdvisoryUpload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Amazon/Amazon/.idea/Amazon.iml" filepath="$PROJECT_DIR$/../../Amazon/Amazon/.idea/Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../BookAnArtist/.idea/BookAnArtist.iml" filepath="$PROJECT_DIR$/../../BookAnArtist/.idea/BookAnArtist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../GreenCart/GreenCart/.idea/GreenCart.iml" filepath="$PROJECT_DIR$/../../GreenCart/GreenCart/.idea/GreenCart.iml" />
+      <module fileurl="file://$USER_HOME$/PythonSelenium/.idea/PythonSelenium.iml" filepath="$USER_HOME$/PythonSelenium/.idea/PythonSelenium.iml" />
+      <module fileurl="file://$USER_HOME$/Whatsapp-automation-using-python-selenium/.idea/Whatsapp-automation-using-python-selenium.iml" filepath="$USER_HOME$/Whatsapp-automation-using-python-selenium/.idea/Whatsapp-automation-using-python-selenium.iml" />
+      <module fileurl="file://$USER_HOME$/instagram-auto-create-account/.idea/instagram-auto-create-account.iml" filepath="$USER_HOME$/instagram-auto-create-account/.idea/instagram-auto-create-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pythonTestWebSites/pythonProject2/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/../../pythonTestWebSites/pythonProject2/.idea/pythonProject2.iml" />
+    </modules>
+  </component>
+</project>
